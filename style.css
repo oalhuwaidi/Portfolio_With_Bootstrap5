@@ -22,17 +22,21 @@
 /*style the Banner*/
 .bgimage {
     height: 100vh;
-    background: url("pc.png") no-repeat;
-    background-size: cover;
+    background: url("cat.gif");
     position: relative; /*position the childen and the div freely*/
 }
 
 /*style the hero-text*/
 .hero-text {
+    font-size: 1.1rem;
     text-align: center;
     position: absolute;
-    top: 50%;
+    top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-weight: 600;
+}
+
+.hero-title {
+    font-size: 3rem;
 }
