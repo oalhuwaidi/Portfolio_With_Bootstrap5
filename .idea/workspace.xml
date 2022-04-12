@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="503ff91c-da64-4202-8a27-855ec85141f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Homework1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +39,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mathh\WebstormProjects\Portfolio_With_Bootstrap5" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -49,7 +60,8 @@
       <workItem from="1649670442869" duration="1095000" />
       <workItem from="1649671611714" duration="1423000" />
       <workItem from="1649674596261" duration="4000" />
-      <workItem from="1649679798364" duration="3971000" />
+      <workItem from="1649679798364" duration="6484000" />
+      <workItem from="1649745231841" duration="1845000" />
     </task>
     <servers />
   </component>
