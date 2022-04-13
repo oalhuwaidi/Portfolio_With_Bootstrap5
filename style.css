@@ -73,6 +73,7 @@ body{
     }
 
    .navbar-toggler img{
+        width: 5vh;
     }
 }
 
