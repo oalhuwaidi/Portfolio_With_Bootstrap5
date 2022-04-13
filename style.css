@@ -60,7 +60,7 @@ body{
 
 @media screen and (max-device-width: 768px){
     .nav-link{
-        font-size: 2rem;
+        font-size: 3rem;
         padding-top: 3.5vh;
         padding-bottom: 3vh;
     }
