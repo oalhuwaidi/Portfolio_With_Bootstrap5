@@ -65,12 +65,16 @@ body{
         padding-bottom: 3vh;
     }
     .navbar {
-        height: 5vh;
+        height: 8vh;
     }
 
     .bgimage {
         margin-right: 5vh;
         margin-left: 5vh;
+    }
+
+   .navbar-toggler img{
+        width: 150%;
     }
 }
 
