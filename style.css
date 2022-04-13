@@ -57,8 +57,12 @@ body{
     mix-blend-mode: hard-light;
 }
 
-.container {
-    font-size: 1rem;
+@media screen and (max-device-width: 768px){
+    .nav-link{
+        font-size: 2rem;
+        padding-top: 3vh;
+        padding-bottom: 5vh;
+    }
 }
 
 .container h1 {
